@@ -1,0 +1,7 @@
+*-bot
+node_modules
+package-lock.json
+store-*.json
+config.js
+multifile.js
+*.mp4
